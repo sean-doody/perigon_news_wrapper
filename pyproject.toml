@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "perigon-news-wrapper"
+version = "0.0.1"
+description = "A minimalist Python wrapper for the Perigon News API."
+authors = ["Sean Doody <sean.t.doody@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/sean-doody/perigon_api_wrapper"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.32.3"
+urllib3 = "^2.2.2"
+tqdm = "^4.66.4"
+pytest = "^8.3.2"
+black = "^24.4.2"
+tox = "^4.18.0"
+tenacity = "^9.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
