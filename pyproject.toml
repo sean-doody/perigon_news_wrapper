@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "perigon-news-wrapper"
-version = "0.0.1"
+version = "0.0.2"
 description = "A minimalist Python wrapper for the Perigon News API."
 authors = ["Sean Doody <sean.t.doody@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/sean-doody/perigon_api_wrapper"
+repository = "https://github.com/sean-doody/perigon_news_wrapper"
 
 [tool.poetry.dependencies]
 python = "^3.11"

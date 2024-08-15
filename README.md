@@ -6,7 +6,7 @@ A minimalist Python wrapper for the [Perigon News API](https://www.goperigon.com
 Installation (currently, only tested for Python 3.11):
 
 ```bash
-pip install perigon-api-wrapper
+pip install perigon-news-wrapper
 ```
 
 ## Basic Usage
