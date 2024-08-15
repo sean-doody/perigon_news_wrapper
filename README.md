@@ -14,7 +14,7 @@ pip install perigon-news-wrapper
 To initialize the API, import the package and add your API key:
 
 ```python
-from perigon_api_wrapper import PerigonAPI
+from perigon_news_wrapper import PerigonAPI
 
 # specify your credentials:
 api_key = '...'
