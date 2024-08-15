@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "perigon-news-wrapper"
-version = "0.0.2"
+version = "0.0.3"
 description = "A minimalist Python wrapper for the Perigon News API."
 authors = ["Sean Doody <sean.t.doody@gmail.com>"]
 license = "MIT"
